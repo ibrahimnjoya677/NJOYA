@@ -1,0 +1,72 @@
+h1 {
+    top:189px;
+    left: 10px;
+    position: relative;
+}
+
+.ar3 {
+    width: 40px;
+    height: 40px;
+    border-radius:  20px;
+    background-color: rgba(230, 129, 208, 0.932);
+    top:30px;
+    left: 10px;
+    position: relative;
+    float: left;
+    opacity: 0.5;
+   
+}
+.ar5 {
+    width: 40px;
+    height: 40px;
+    border-radius:  20px;
+    background-color: rgba(132, 132, 197, 0.863);
+    top:30px;
+    left: 10px;
+    position: relative;
+    float: left;
+    opacity: 0.5;
+   
+}
+.ar7 {
+    width: 40px;
+    height: 40px;
+    border-radius:  20px;
+    background-color: rgba(216, 90, 68, 0.651);
+    top:30px;
+    left: 10px;
+    position: relative;
+    float: left;
+    opacity: 0.5;
+   
+}
+
+
+
+section{
+    border: black solid 1px;
+    width: 320px;
+    height: 45%;
+    border-radius: 30px;
+    text-align: left;
+    top:195px;
+    left: 10px;
+    position: relative;
+}
+
+
+.ar2 .ar4 .ar6 {
+    
+    text-align: left;
+    top:20px;
+    left: 19px;
+    position: relative;
+}
+img{
+    width: 30px;
+    height: 30px;
+    top:10px;
+    left: 10px;
+    position: relative;
+}
+ 
